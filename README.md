@@ -19,8 +19,7 @@ We will use [Open Weather Map API](https://openweathermap.org/api) for collectin
 
 
 #### Use Real APP ID after sign up and activation of your APP ID
-After Sign up at the website collect your own `APP ID` from their [API Keys page](https://home.openweathermap.org/api_keys). Then add below lines with your APP ID at the end of `local.properties` file.
-```properties
+After Sign up at the website collect your own `APP ID` from their [API Keys page](https://home.openweathermap.org/api_keys).
 #this is real Base URL
 base_url=http://api.openweathermap.org/data/2.5/
 
