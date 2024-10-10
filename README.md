@@ -2,7 +2,8 @@
 
 MVVM Architecture is one of the most popular and latest architecture to develop a maintanable and managable codebase. We are developing a sample `Weater Forecast` Android App with `MVVM Architecture` using `Kotlin` language and `Retrofit` network calling library. 
 
-ter completion of that project, you can continue this repository.
+![Screenshot_20241010_165446_Weather forecast](https://github.com/user-attachments/assets/a1565116-5b1b-40fb-9018-fa585051883a)
+![Screenshot_20241010_165453_Weather forecast](https://github.com/user-attachments/assets/b5147e17-8b4f-4299-ab8c-ab98902a3822)
 
 
 ### Prerequisites
