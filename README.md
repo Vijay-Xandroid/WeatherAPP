@@ -5,9 +5,6 @@ MVVM Architecture is one of the most popular and latest architecture to develop 
 ter completion of that project, you can continue this repository.
 
 
-
-
-
 ### Prerequisites
 Basic `Kotlin` and knowledge of `HTTP` request by `Retrofit` library are required for this project. 
 ### Project Description
@@ -33,4 +30,5 @@ app_id=YOUR_OWN_APP_ID
 
 ### Run the project
 Sync the `Gradle` and run the project. Install APK on your emulator or real device. Turn on the internet of your testing device. For better understanding, please read the comments of every methods. Hope, these comments will help you to feel the `MVVM Architecture`.
+
 
