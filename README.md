@@ -2,10 +2,8 @@
 
 MVVM Architecture is one of the most popular and latest architecture to develop a maintainable and managable codebase. We are developing a sample `Weater Forecast` Android App with `MVVM Architecture` using `Kotlin` language and `Retrofit` network calling library. 
 
-ter completion of that project, you can continue this repository.
-
-
-
+![Screenshot_20241010_165446_Weather forecast](https://github.com/user-attachments/assets/a1565116-5b1b-40fb-9018-fa585051883a)
+![Screenshot_20241010_165453_Weather forecast](https://github.com/user-attachments/assets/b5147e17-8b4f-4299-ab8c-ab98902a3822)
 
 
 ### Prerequisites
@@ -22,8 +20,7 @@ We will use [Open Weather Map API](https://openweathermap.org/api) for collectin
 
 
 #### Use Real APP ID after sign up and activation of your APP ID
-After Sign up at the website collect your own `APP ID` from their [API Keys page](https://home.openweathermap.org/api_keys). Then add below lines with your APP ID at the end of `local.properties` file.
-```properties
+After Sign up at the website collect your own `APP ID` from their [API Keys page](https://home.openweathermap.org/api_keys).
 #this is real Base URL
 base_url=http://api.openweathermap.org/data/2.5/
 
@@ -33,4 +30,5 @@ app_id=YOUR_OWN_APP_ID
 
 ### Run the project
 Sync the `Gradle` and run the project. Install APK on your emulator or real device. Turn on the internet of your testing device. For better understanding, please read the comments of every methods. Hope, these comments will help you to feel the `MVVM Architecture`.
+
 
